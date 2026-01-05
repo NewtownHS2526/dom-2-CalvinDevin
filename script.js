@@ -626,5 +626,5 @@ textContent vs innerHTML:
 - innerHTML = Can include HTML tags (more powerful, but be careful!)
 
 Remember: Always check if element exists before using it!
-if (element) { ... }
+if (element) { ... }eqfqef3e
 */
